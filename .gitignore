@@ -1,0 +1,21 @@
+# Ignore environment variables and credentials
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore IDE/editor-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
